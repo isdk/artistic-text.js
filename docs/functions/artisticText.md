@@ -8,7 +8,7 @@
 
 > **artisticText**(`s`, `options`?): `string`
 
-Defined in: src/artistic-text.ts:41
+Defined in: [src/artistic-text.ts:41](https://github.com/isdk/artistic-text.js/blob/9225f67ad4c233f912d0842ab94b02142f6400e9/src/artistic-text.ts#L41)
 
 Generates artistic text with custom fonts and colors.
 

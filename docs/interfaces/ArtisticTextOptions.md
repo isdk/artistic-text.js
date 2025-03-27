@@ -6,7 +6,7 @@
 
 # Interface: ArtisticTextOptions
 
-Defined in: src/artistic-text.ts:18
+Defined in: [src/artistic-text.ts:18](https://github.com/isdk/artistic-text.js/blob/9225f67ad4c233f912d0842ab94b02142f6400e9/src/artistic-text.ts#L18)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: src/artistic-text.ts:18
 
 > `optional` **color**: `string`
 
-Defined in: src/artistic-text.ts:19
+Defined in: [src/artistic-text.ts:19](https://github.com/isdk/artistic-text.js/blob/9225f67ad4c233f912d0842ab94b02142f6400e9/src/artistic-text.ts#L19)
 
 ***
 
